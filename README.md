@@ -6,15 +6,25 @@ Most to all of this project's files is being kept private for personal reasons
 
 # Features
 Bedrooms
+
 Full Bath
+
 Half Bath
+
 Total Bath (Full+Half Baths)
+
 Sq Ft
+
 Lot Size
+
 Year Built
+
 Town/City Median Income
+
 Town/City Median Home Value
+
 Property-Type (Single, Multi); This feature was encoded into numerical categories
+
 Town/City (Every village/CDP in Nassau County); This feature  was encoded into numerical categories
 
 # Target
