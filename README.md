@@ -36,15 +36,3 @@ Price
 # Cross-Val Score
 ~ 0.70 +- .05
 
-# Pretty Damn Accurate
-### Test 1
-<img width="853" alt="Screen Shot 2024-04-21 at 10 34 41 PM" src="https://github.com/AnthonyValle/Nassau-County-Home-Market-Value-Predictor/assets/66498197/0a3cf5a6-0820-4c28-a4aa-d07b79f70ee3">
-<img width="335" alt="Screen Shot 2024-04-21 at 10 34 23 PM" src="https://github.com/AnthonyValle/Nassau-County-Home-Market-Value-Predictor/assets/66498197/512b9768-8d19-423a-9ac3-89aa841fb636">
-
-### Test 2
-<img width="859" alt="Screen Shot 2024-04-21 at 10 40 28 PM" src="https://github.com/AnthonyValle/Nassau-County-Home-Market-Value-Predictor/assets/66498197/5632c2a2-8af9-4d2c-a962-22d8fd71bb56">
-<img width="345" alt="Screen Shot 2024-04-21 at 10 40 03 PM" src="https://github.com/AnthonyValle/Nassau-County-Home-Market-Value-Predictor/assets/66498197/39b3cabf-2121-46b9-8dc4-333c5aea3dc1">
-
-### Test 3
-<img width="687" alt="Screen Shot 2024-04-21 at 11 32 12 PM" src="https://github.com/AnthonyValle/Nassau-County-Home-Market-Value-Predictor/assets/66498197/7c3f8186-7a18-4c66-91c1-116b32353729">
-<img width="322" alt="Screen Shot 2024-04-21 at 11 32 28 PM" src="https://github.com/AnthonyValle/Nassau-County-Home-Market-Value-Predictor/assets/66498197/33433323-e1c1-4089-868a-3d10b5a03ef6">
