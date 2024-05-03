@@ -38,3 +38,13 @@ Price
 # Cross-Val Score
 ~ 0.70 +- .05
 
+# Tests (keras model)
+<img width="623" alt="Screen Shot 2024-05-03 at 12 26 15 AM" src="https://github.com/AnthonyValle/Nassau-County-Home-Market-Value-Predictor/assets/66498197/19b070f7-01bf-4390-9252-8e17b612be2a">
+<img width="230" alt="Screen Shot 2024-05-03 at 12 27 43 AM" src="https://github.com/AnthonyValle/Nassau-County-Home-Market-Value-Predictor/assets/66498197/04ffe4b6-2b77-41fe-88b3-4559632fd0d5">
+
+<img width="623" alt="Screen Shot 2024-05-03 at 12 29 35 AM" src="https://github.com/AnthonyValle/Nassau-County-Home-Market-Value-Predictor/assets/66498197/2962f466-0bb6-4bba-8fe9-dac66c0f421a">
+<img width="230" alt="Screen Shot 2024-05-03 at 12 30 05 AM" src="https://github.com/AnthonyValle/Nassau-County-Home-Market-Value-Predictor/assets/66498197/64c0838c-e26e-4883-be31-f79913f83741">
+
+<img width="623" alt="Screen Shot 2024-05-03 at 12 33 36 AM" src="https://github.com/AnthonyValle/Nassau-County-Home-Market-Value-Predictor/assets/66498197/8d3b9804-0f7e-4c30-9266-a24e2bd1907a">
+<img width="230" alt="Screen Shot 2024-05-03 at 12 33 25 AM" src="https://github.com/AnthonyValle/Nassau-County-Home-Market-Value-Predictor/assets/66498197/083d97c4-407d-4d11-b74f-abe344464372">
+
